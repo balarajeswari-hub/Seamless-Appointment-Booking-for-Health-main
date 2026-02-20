@@ -1,7 +1,7 @@
 # Seamless-Appointment-Booking-for-Health-main
 
 
-# Seamless-Appointment-Booking-for-Health
+
 Full Stack Development with MERN
 
 ## DocSpot - Seamless Appointment Booking for Health
@@ -9,16 +9,21 @@ Full Stack Development with MERN
 ---
 ### 👥 Team Members
 
--Bala Rajeswari Dusanapudi *(Team Leader)*  
+Team Leader : Dusanapudi Bala Rajeswari
+
+Team member : Chinmayi Teja Gubbala
+
+Team member : Chennu Jyothirmai
+
+Team member : Chegondi Teja Sri
+
+
 - Seamless-Appointment-Booking-for-Health
 Full Stack Development with MERN
 
 DocSpot - Seamless Appointment Booking for Health
-👥 Team Members
-Yaswanth siva kumar pichika (Team Leader)
-Devi Meena Amruthavlli Darabathula
-Durga Nagendra Kumar Muddala
-Likitha Sai Dude
+
+
 📌 Project Overview
 DocSpot is a MERN stack-based doctor appointment booking system allowing patients to schedule healthcare appointments easily and efficiently. The project eliminates manual processes by providing real-time online scheduling.
 
